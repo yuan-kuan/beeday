@@ -44,5 +44,8 @@
   "dependencies": {
     "@architect/sandbox": "^3.3.7",
     "@begin/data": "^1.2.3"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
   }
 }
