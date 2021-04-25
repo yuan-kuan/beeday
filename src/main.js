@@ -5,8 +5,8 @@ const app = new App({
   target: document.body,
   props: {
     name: 'world',
-    message
-  }
+    message,
+  },
 })
 
 export default app
