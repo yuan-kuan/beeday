@@ -1,2 +1,0 @@
-# beeday
-Begin app
